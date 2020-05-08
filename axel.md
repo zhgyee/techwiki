@@ -1,0 +1,2 @@
+# axel usage
+install axel and spawn download by `axel -a -n [Num_of_Thread] link1 link2 link3 ...` where '[Num_of_Thread]' is the number of parallel connections to create for each link you want to download.
